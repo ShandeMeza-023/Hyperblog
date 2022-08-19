@@ -1,4 +1,5 @@
 body {
+    background-color: bisque;
     color: #333;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -23,6 +24,7 @@ body {
 }
 
 #container {
+    background-color: white;
     width: 70%;
     padding: 0;
     text-align: left;
